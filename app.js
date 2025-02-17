@@ -89,3 +89,4 @@ document.querySelector("#reiniciar").setAttribute("disabled","true");
  }
 
 condicionesIniciales();
+// SE ACTUALIZA PARA REVISAR EN GITHUB
